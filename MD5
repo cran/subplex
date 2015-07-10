@@ -1,6 +1,6 @@
-447337e8f3b127ab4a82d83e53c2ee79 *DESCRIPTION
-f101e43b5688f75aafd6786b5bbccac8 *NAMESPACE
-67f1f2358ed3b8daab2cc9cb9a379a4c *R/subplex.R
+734d33642bd5252cebe440fda122258b *DESCRIPTION
+7f0941986ce4f6ba832d66a05e289e42 *NAMESPACE
+424a3c7276fd03956ebdab7a07628314 *R/subplex.R
 9bce528c8a223e8a3b992bc85e4fd8a4 *man/subplex-package.Rd
 9bdda0a1e0160437a114aa253a7924cb *man/subplex.Rd
 b2e8984e3b6b93cd652d0e8a25eeae3b *src/calcc.f
