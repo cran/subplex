@@ -1,4 +1,4 @@
-96111a00222c000b27aa7aa70135641b *DESCRIPTION
+5fa0bfadcc2b2dd9b44f24a182e2bb86 *DESCRIPTION
 61fc7b89dc296fe3f953e9a8e4e92cb4 *NAMESPACE
 4bba8d2fbfd1f1d3afcdb563dd7f9a87 *R/subplex.R
 d32239bcb673463ab874e80d47fae504 *inst/GPL
@@ -8,13 +8,13 @@ e4ea381aeebc9da469b8b0c5d2145ba2 *inst/NEWS.Rd
 7016a5f7bdd641bcf16c242e7e639d7b *man/subplex.Rd
 2fa4c7011c2bc0f7449ae151d5cc44ae *src/Makevars
 b2e8984e3b6b93cd652d0e8a25eeae3b *src/calcc.f
-b4e9c268a064b33598692c0cdfe1a786 *src/call_subplex.c
+943445024965e1f93fb143033b213a16 *src/call_subplex.c
 14f03ad4f1c2dc5f92f14c0d45553154 *src/dist.f
 32c54f859dbafe082da786a352be9e1f *src/evalf.f
 fabf8760c4dbb7d69d9a8b9211dc2ed9 *src/init.c
 053f990e1c668f3440d680341a176ecf *src/newpt.f
 0a13433db742ac698293a115b52b052b *src/order.f
-0bf43234bcb7c8d0866f511bc483d6da *src/partx.f
+1602f0099f7e73e7230f26288a3844b0 *src/partx.f
 57701136568d80a8b24791e01b29aa10 *src/setstp.f
 2350ac20401fa26f5b145f756e660207 *src/simplx.f
 c833f03d95942d2cb58c6a1b78ece60a *src/sortd.f
