@@ -1,4 +1,4 @@
-3ec40df47a2ea5e1c474cc158d9f96b1 *DESCRIPTION
+092659849ac4d220f88ed33e33574181 *DESCRIPTION
 8baf72905d5598141c5817a52cd3e28c *NAMESPACE
 b5491e176be7ebeac991fa77cb234f28 *R/subplex-package.R
 b7f90bea3987c66f7f08a8913d50d01a *R/subplex.R
@@ -9,7 +9,7 @@ e046bbf1be80318099c520a13e84ad34 *man/subplex-package.Rd
 ceba10d512820e11c5e70751a4079b19 *man/subplex.Rd
 2fa4c7011c2bc0f7449ae151d5cc44ae *src/Makevars
 b2e8984e3b6b93cd652d0e8a25eeae3b *src/calcc.f
-78a2fee90c9f9f05271f17ab9ea631d9 *src/call_subplex.c
+488bff7c689d32c455114d576173b167 *src/call_subplex.c
 14f03ad4f1c2dc5f92f14c0d45553154 *src/dist.f
 32c54f859dbafe082da786a352be9e1f *src/evalf.f
 fabf8760c4dbb7d69d9a8b9211dc2ed9 *src/init.c
@@ -23,6 +23,6 @@ c833f03d95942d2cb58c6a1b78ece60a *src/sortd.f
 1087c23afbf19da245deeb4409e34b31 *src/subopt.f
 f541827abbf6df9f123fe89362bfa4c5 *src/subplx.f
 d8f739b689f2557fb1bf5305f4acd967 *tests/ripple.R
-b8afcc574f5b0cfc6ae0fbdde43b7953 *tests/ripple.Rout.save
+f8f51d63ca60a4cf208a04b0f661fe74 *tests/ripple.Rout.save
 0d85e2761c2fd87818058c3a3bb1e997 *tests/rosen.R
-58128ce6d019be64fdbc5b5052ab7d7f *tests/rosen.Rout.save
+23c953154e5e13b11fdfc7fd2bfcf66c *tests/rosen.Rout.save

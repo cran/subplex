@@ -1,6 +1,6 @@
 Package: subplex
-Version: 1.7
-Date: 2022-01-16
+Version: 1.8
+Date: 2022-04-12
 Title: Unconstrained Optimization using the Subplex Algorithm
 Authors@R: c(person(given=c("Aaron","A."),family="King",
 		role=c("aut","trl","cre"),email="kingaa@umich.edu"),
@@ -14,9 +14,9 @@ Encoding: UTF-8
 RoxygenNote: 7.1.2
 Collate: 'subplex-package.R' 'subplex.R'
 NeedsCompilation: yes
-Packaged: 2022-01-16 14:15:40 UTC; kingaa
+Packaged: 2022-04-12 13:23:12 UTC; kingaa
 Author: Aaron A. King [aut, trl, cre],
   Tom Rowan [aut]
 Maintainer: Aaron A. King <kingaa@umich.edu>
 Repository: CRAN
-Date/Publication: 2022-01-16 14:40:02 UTC
+Date/Publication: 2022-04-12 13:50:02 UTC
